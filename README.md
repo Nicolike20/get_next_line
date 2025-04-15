@@ -79,7 +79,7 @@ This function:
 
 ## 📁 Project Status
 
-✅ Completed – fully functional, tested, and compliant with project specifications.
+✅ Completed – fully functional, tested, and compliant with project specifications. 
 
 ---
 
